@@ -24,13 +24,12 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <title>Timetable</title>
-</head>
-<body>
+    </head>
+    <body>
     <center>
         <img src="/static/logo.png" width="500" height="100">
     </center>
@@ -82,10 +81,9 @@ Execute the program using runserver command.
             <td>AI AND APPLICATIONS</td>
             <td colspan="2">FREE</td>
         </tr>
-    </table>
-</body>
-</html>
-'''
+     </table>
+    </body>
+    </html>
 
 ## OUTPUT
 
